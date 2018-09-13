@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "dev": "gitbook serve",
+    "build": "gitbook build",
+    "d": "bash deploy.sh"
+  }
+}
