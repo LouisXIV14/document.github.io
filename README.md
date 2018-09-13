@@ -17,7 +17,7 @@
 
 
 * [项目简介](README.md)
-* [面试篇](http://www.lulustyle.net/interview/book/interview/resume.html)	
+* [面试篇](http://www.lulustyle.net/book/interview/resume.html)	
 * [框架篇](http://www.lulustyle.net/book/react/redux.html)
 * [设计模式](http://www.lulustyle.net/book/JS%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E7%B3%BB%E7%BB%9F%E8%AE%B2%E8%A7%A3%E5%92%8C%E5%BA%94%E7%94%A8/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99.html)
 * [数据结构和算法](http://www.lulustyle.net/book/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%88.html)
