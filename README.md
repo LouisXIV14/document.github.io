@@ -175,4 +175,4 @@
 
 (注明是在GitHub上看到的哈)
 
-![](/Wechat.jpeg)
+![](/book/Wechat.jpeg)
